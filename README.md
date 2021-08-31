@@ -1,0 +1,2 @@
+# 3Dmodel_Mathematica11
+使用Mathematica 11来给相机三脚架的云台枢纽部件建模
