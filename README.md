@@ -27,6 +27,11 @@ Mathematica 11两个内置函数：
 理论上难度不大。
 
 ### 实现
+源码[model3D.nb](https://github.com/lee-chen20/3Dmodel_Mathematica11/blob/main/model3D.nb)需用版本号不低于11的Mathematica打开，内部包含了视觉效果良好的3D图像。另外提供了.nb文件的[pdf易读版](https://github.com/lee-chen20/3Dmodel_Mathematica11/blob/main/model3D.pdf)，以及仅包含代码的[Markdown文件](https://github.com/lee-chen20/3Dmodel_Mathematica11/blob/main/Mathematica%E4%BB%A3%E7%A0%81%E9%83%A8%E5%88%86.md)。
+
+3D建模结果输出为[model3D.stl](https://github.com/lee-chen20/3Dmodel_Mathematica11/blob/main/model3D.stl)，可直接打印，也可用Windows10直接预览。
+
+
 
 打印出来的成品符合要求，三脚架满血复活（撒花）。
 
