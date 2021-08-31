@@ -54,7 +54,7 @@ modle = RegionPlot3D[   ((x^2 + y^2 <= (d0/2)^2 &&
   ImageSize -> Medium, BoxRatios -> {40, 40, 60}]
 ```
 
-#### 建模文件输出为.stl，可打印，Windows10可直接打开预览 
+#### 建模文件输出为[model3D.stl](https://github.com/lee-chen20/3Dmodel_Mathematica11/blob/main/model3D.stl)，可打印，Windows10可直接打开预览 
 
 ```mathematica
 Printout3D[modle, "D:\\model3D.stl", TargetUnits -> "Millimeters"]
